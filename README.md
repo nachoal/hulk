@@ -1,5 +1,5 @@
 # Hulk
-Hulk is a powerful, self-healing Ruby script runner with a "strong" ability to automatically fix buggy code. Inspired by its namesake, the Incredible Hulk, this tool smashes bugs with incredible strength and regenerates its code to keep running. Hulk is powered by GPT-4, a cutting-edge AI language model, to diagnose and repair code issues in real-time.
+Hulk is a powerful, self-healing Ruby script runner with a "strong" ability to automatically fix buggy code. Inspired by @bootloaders [excellente python implementation](https://github.com/biobootloader/wolverine). This tool smashes bugs with incredible strength and regenerates its code to keep running. Hulk is powered by GPT-4, a cutting-edge AI language model, to diagnose and repair code issues in real-time.
 
 ## Requirements
 * Ruby 3.2.0
